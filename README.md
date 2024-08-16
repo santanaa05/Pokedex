@@ -1,6 +1,31 @@
 # Pokedex
-O projeto Pokedex foi desenvolvido com as linguagens HTML, CSS e Javascript; Através do VSC (Visual Studio Code).
-O projeto é uma ferramenta de reconhecimento de pokemons, onde você pode pesquisar o nome do pokemon e ver sua imagem, além disso é disponivel uma lista de 1 a 898 pokemons listados, você também consegue ver o peso e a altura do mesmo.
+
+## Introdução
+
+O Pokedex é um aplicativo de banco de dados Pokémon que fornece informações detalhadas sobre diversas espécies de Pokémon, o projeto visa oferecer uma interface fácil de usar para visualizar estatísticas relevantes sobre Pokémons.
+
+## Recursos
+
+* Busca de Pokémon: Encontre rapidamente qualquer Pokémon por nome na Pokedex.
+
+* Interface Intuitiva: Design amigável e fácil de navegar.
+
+* Informações Detalhadas: Veja estatísticas como peso e altura de cada Pokemon
+
+## Uso
+
+* Busca de Pokémon: Utilize a barra de pesquisa para localizar Pokémon pelo nome
+
+* Visualização de Detalhes: Digite o nome ou o numero de um Pokémon para exibir informações detalhadas.
+
+## Licença
+
+Este projeto está licenciado sob a Licença GNU - veja o arquivo LICENSE para mais detalhes.
+
+## Agradecimentos
+
+* Agradecimentos especiais à comunidade de código aberto por suas contribuições e suporte.
+
 
 https://kauangabrielpokedex.vercel.app/
 
