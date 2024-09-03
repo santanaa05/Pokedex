@@ -26,6 +26,14 @@ Este projeto está licenciado sob a Licença GNU - veja o arquivo LICENSE para m
 
 * Agradecimentos especiais à comunidade de código aberto por suas contribuições e suporte.
 
+## Linguagens
+
+* HTML: É a linguagem de marcação usada para criar a estrutura e o conteúdo de uma página web.
+
+* CSS:  É uma linguagem de estilo usada para definir a aparência e o layout das páginas web.
+
+* Javascript:  É uma linguagem de programação que adiciona interatividade e dinamismo às páginas web.
+
 
 https://kauangabrielpokedex.vercel.app/
 
